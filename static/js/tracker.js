@@ -311,7 +311,7 @@
 	* The initialize function initializes the map.
 	*/
 	function initialize() {
-		L.mapbox.accessToken = 'pk.eyJ1IjoibXNwaWVyIiwiYSI6ImUwMmQ4OTBiNWNiMWIyZDE2MTU3MGZlYWI1MjdkMzkxIn0.3eCyZuMzgZfgDy-UznjdFA';
+		L.mapbox.accessToken = 'pk.eyJ1Ijoiam1hbmdpMTMiLCJhIjoiMGZhNjk4OGQ1ODFlMzc4MzA1ZTk1MjdiNGQzNmJjZWQifQ.65ExVqKRSBC1HpsIVSO4Yw';
 
 		var streets = new L.mapbox.tileLayer('mapbox.streets');
 		var satellite = new L.mapbox.tileLayer('mapbox.satellite');
